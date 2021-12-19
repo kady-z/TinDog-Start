@@ -50,12 +50,16 @@ h1{
 }
 
 .features h3{
+    font-family: 'Montserrat-Light',sans-serif;
     font-weight: bold;
+}
+
+.features p{
+    color: grey;
 }
 
 .feature-icon{
     color: orange;
-    font-size: 3rem;
 }
 
 .feature-icon:hover{
