@@ -153,5 +153,11 @@ footer{
         text-align: center;
         padding-bottom: 0;
     }
+
+    .navbar{
+        padding-bottom: 4.5rem ;
+        position: static;
+    }
+    
     
 }
